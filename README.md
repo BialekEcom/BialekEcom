@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BialekEcom
+# 👋 Hi, I'm Filip Białek
 
 ### 🌐 Web Development | E-commerce | Digital Marketing
 
